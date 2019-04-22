@@ -1,0 +1,9 @@
+Si da un error de que no encontro el 
+mysql-connector-java-5.1.46.jar
+
+(en mi caso es asi)
+
+Tiene que descromprimir el .rar en el escritorio y volver a abrir
+el projecto
+
+Gracias.
